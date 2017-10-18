@@ -1,0 +1,10 @@
+c:\Users\FIC\Desktop\semana3_aula2_funcoes\bin\Debug\netcoreapp2.0\semana3_aula2_funcoes.deps.json
+c:\Users\FIC\Desktop\semana3_aula2_funcoes\bin\Debug\netcoreapp2.0\semana3_aula2_funcoes.runtimeconfig.json
+c:\Users\FIC\Desktop\semana3_aula2_funcoes\bin\Debug\netcoreapp2.0\semana3_aula2_funcoes.runtimeconfig.dev.json
+c:\Users\FIC\Desktop\semana3_aula2_funcoes\bin\Debug\netcoreapp2.0\semana3_aula2_funcoes.dll
+c:\Users\FIC\Desktop\semana3_aula2_funcoes\bin\Debug\netcoreapp2.0\semana3_aula2_funcoes.pdb
+c:\Users\FIC\Desktop\semana3_aula2_funcoes\obj\Debug\netcoreapp2.0\semana3_aula2_funcoes.csproj.CoreCompileInputs.cache
+c:\Users\FIC\Desktop\semana3_aula2_funcoes\obj\Debug\netcoreapp2.0\semana3_aula2_funcoes.AssemblyInfoInputs.cache
+c:\Users\FIC\Desktop\semana3_aula2_funcoes\obj\Debug\netcoreapp2.0\semana3_aula2_funcoes.AssemblyInfo.cs
+c:\Users\FIC\Desktop\semana3_aula2_funcoes\obj\Debug\netcoreapp2.0\semana3_aula2_funcoes.dll
+c:\Users\FIC\Desktop\semana3_aula2_funcoes\obj\Debug\netcoreapp2.0\semana3_aula2_funcoes.pdb

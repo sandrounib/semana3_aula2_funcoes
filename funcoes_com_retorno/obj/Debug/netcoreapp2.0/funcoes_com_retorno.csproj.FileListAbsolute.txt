@@ -1,0 +1,10 @@
+c:\Users\FIC\Desktop\semana3_aula2_funcoes\funcoes_com_retorno\bin\Debug\netcoreapp2.0\funcoes_com_retorno.deps.json
+c:\Users\FIC\Desktop\semana3_aula2_funcoes\funcoes_com_retorno\bin\Debug\netcoreapp2.0\funcoes_com_retorno.runtimeconfig.json
+c:\Users\FIC\Desktop\semana3_aula2_funcoes\funcoes_com_retorno\bin\Debug\netcoreapp2.0\funcoes_com_retorno.runtimeconfig.dev.json
+c:\Users\FIC\Desktop\semana3_aula2_funcoes\funcoes_com_retorno\bin\Debug\netcoreapp2.0\funcoes_com_retorno.dll
+c:\Users\FIC\Desktop\semana3_aula2_funcoes\funcoes_com_retorno\bin\Debug\netcoreapp2.0\funcoes_com_retorno.pdb
+c:\Users\FIC\Desktop\semana3_aula2_funcoes\funcoes_com_retorno\obj\Debug\netcoreapp2.0\funcoes_com_retorno.csproj.CoreCompileInputs.cache
+c:\Users\FIC\Desktop\semana3_aula2_funcoes\funcoes_com_retorno\obj\Debug\netcoreapp2.0\funcoes_com_retorno.AssemblyInfoInputs.cache
+c:\Users\FIC\Desktop\semana3_aula2_funcoes\funcoes_com_retorno\obj\Debug\netcoreapp2.0\funcoes_com_retorno.AssemblyInfo.cs
+c:\Users\FIC\Desktop\semana3_aula2_funcoes\funcoes_com_retorno\obj\Debug\netcoreapp2.0\funcoes_com_retorno.dll
+c:\Users\FIC\Desktop\semana3_aula2_funcoes\funcoes_com_retorno\obj\Debug\netcoreapp2.0\funcoes_com_retorno.pdb
